@@ -9,4 +9,4 @@ K-means clustering is a widely used unsupervised learning technique for cluster/
 
 https://pypi.python.org/pypi/kmodes/
 
-You can read more about the package here, in which it can apply Z. Huang's method and the more recently published F. Cao's method. There are many unsupervised learning possibilies with the expansion into categorical variables -- stay tuned for my next post on applying k-modes to the film industry!
+You can read more about the package here, in which it can apply Z. Huang's method and the more recently published F. Cao's method. There are many unsupervised learning possibilies with the expansion into categorical variables -- stay tuned for my next post on applying k-modes to analyze actor/actress similarity in the film industry.
