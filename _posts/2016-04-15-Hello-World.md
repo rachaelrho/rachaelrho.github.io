@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome
-published: false
+published: true
 ---
 
 Work in progress -- come back later!
