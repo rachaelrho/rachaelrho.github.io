@@ -18,12 +18,16 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: rachael.rho@gmail.com
   facebook:
   flickr:
+<<<<<<< HEAD
   github: 
+=======
+  github: rachaelrho
+>>>>>>> 923967ca68bd01deb2f5d9c0952b89e43e541e9f
   instagram:
-  linkedin:
+  linkedin: rachaelrho
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
